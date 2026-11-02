@@ -1,0 +1,48 @@
+code,county,url_checked,date_checked,site_reachable,privacy_notice,linked_from_homepage,complete_county_specific,cites_dpa_2019,privacy_or_dpo_contact,explains_rights,states_purposes,states_retention,third_party_sharing,odpc_complaint_route,website_score_out_of_10,odpc_register,notes,confidence
+1,Mombasa,https://web.mombasa.go.ke/,2026-11-02,yes,cookie policy only,0,0,0,0,0,0,0,0,0,1,expired: County Government of Mombasa,"Cookie banner and cookie policy, no privacy notice found",high
+2,Kwale,https://kwale.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,"Council of Governors directory lists kwalecountygov.com, which now redirects to an unrelated commercial app",high
+3,Kilifi,https://www.kilifi.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: County Government of Kilifi,,high
+4,Tana River,https://tanariver.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+5,Lamu,https://lamu.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+6,Taita-Taveta,https://taitataveta.go.ke/,2026-11-02,yes,dead link,0,0,0,0,0,0,0,0,0,1,no match found,Footer 'Privacy Policy' link leads back to the homepage,high
+7,Garissa,https://garissa.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: Department of Health,,high
+8,Wajir,https://wajir.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: Department of Agriculture,,high
+9,Mandera,https://mandera.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+10,Marsabit,https://marsabit.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,Homepage exposed very few links (11),medium
+11,Isiolo,https://www.isiolo.go.ke/,2026-11-02,yes,dead link,0,0,0,0,0,0,0,0,0,1,active: Department of Agriculture,Footer 'Privacy Policy' link has href='#',high
+12,Meru,https://meru.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: Meru County Revenue Board,,high
+13,Tharaka-Nithi,https://tharakanithi.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+14,Embu,https://www.embu.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+15,Kitui,https://kitui.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: several county ministries,Browser load failed; checked by text fetch only,medium
+16,Machakos,https://machakos.go.ke/,2026-11-02,yes,empty page,0,0,0,0,0,0,0,0,0,1,active: Agriculture department,/privacy-policy/ exists with a title but no policy text and is not linked. Directory domain machakosgovernment.com now redirects to an unrelated commercial site,high
+17,Makueni,https://makueni.go.ke/,2026-11-02,yes,published,1,1,1,1,1,1,1,1,1,10,active: Department of Agriculture,"Privacy statement 'in compliance with the Data Protection Act, 2019'; contact is the County Secretary; refers complaints to ODPC",high
+18,Nyandarua,https://www.nyandarua.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: Department of Health Services,,high
+19,Nyeri,https://nyeri.go.ke/,2026-11-02,no,not assessed,0,0,0,0,0,0,0,0,0,0,"active: Department of Finance, Economic Planning and ICT; Municipality",Site did not load on 02.11.2026 (browser and text fetch). Directory lists Nyeri with Mandera's URL,low
+20,Kirinyaga,https://kirinyaga.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: County Government of Kirinyaga; Department of Agriculture,,high
+21,Murang'a,https://muranga.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,expired: County Government of Murang'a,,high
+22,Kiambu,https://kiambu.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,expired: County Government of Kiambu,Browser load failed; checked by text fetch only,medium
+23,Turkana,https://turkana.go.ke/,2026-11-02,no,site suspended,0,0,0,0,0,0,0,0,0,0,no match found,Hosting 'Account suspended' page on 02.11.2026,high
+24,West Pokot,https://www.westpokot.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+25,Samburu,https://www.samburu.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+26,Trans Nzoia,https://transnzoia.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: Department of Agriculture and Irrigation,,high
+27,Uasin Gishu,https://uasingishu.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: County Government of Uasin Gishu,,high
+28,Elgeyo-Marakwet,https://elgeyomarakwet.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,"active: county departments, Public Service Board",,high
+29,Nandi,https://nandi.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: Department of Agriculture,,high
+30,Baringo,https://www.baringo.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+31,Laikipia,https://laikipia.go.ke/,2026-11-02,yes,published,1,1,1,1,1,1,0,1,0,8,no match found,Policy dated 12 June 2026; DPO desk with privacy@laikipia.go.ke; no retention period or ODPC complaint route,high
+32,Nakuru,https://www.nakuru.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: Department of Agriculture; Public Service Board,,high
+33,Narok,https://narok.go.ke/,2026-11-02,yes,published,1,1,1,0,1,1,1,1,1,9,no match found,"Policy effective 1 June 2024 with annual review; 72 hour ODPC breach notification; general contact only (info@), no DPO named",high
+34,Kajiado,https://www.kajiado.go.ke/,2026-11-02,yes,template only,0,0,0,0,0,0,0,0,0,1,no match found,/privacy-policy/ holds the default WordPress template text and is not linked from the homepage,high
+35,Kericho,https://kericho.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+36,Bomet,https://bomet.go.ke/,2026-11-02,no,site suspended,0,0,0,0,0,0,0,0,0,0,"active: county departments (5), Public Service Board, Municipality",Hosting 'Account suspended' page on 02.11.2026,high
+37,Kakamega,https://kakamega.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,Browser load failed; checked by text fetch only,medium
+38,Vihiga,https://vihiga.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+39,Bungoma,https://www.bungoma.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,"active: county departments, Public Service Board",,high
+40,Busia,https://www.busiacounty.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: Department of Agriculture,,high
+41,Siaya,https://siaya.go.ke/,2026-11-02,yes,published (incomplete),1,0,1,0,1,1,1,1,1,8,no match found,Detailed statement but published with unfilled placeholders: 'Data Protection Officer / Designated Privacy Contact: [Insert Name/Office]',high
+42,Kisumu,https://www.kisumu.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,active: Department of Agriculture,,high
+43,Homa Bay,https://homabay.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+44,Migori,https://migori.go.ke/,2026-11-02,yes,dead link,0,0,0,0,0,0,0,0,0,1,active: County Government of Migori (listed under Nairobi),Privacy link leads back to the homepage,high
+45,Kisii,https://kisii.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+46,Nyamira,https://www.nyamira.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
+47,Nairobi,https://nairobi.go.ke/,2026-11-02,yes,none found,0,0,0,0,0,0,0,0,0,1,no match found,,high
